@@ -14,10 +14,15 @@ PIN Authentication: Enter the correct PIN (default: 123) to access your account.
 
 Choose an Operation:
 Press 1 to check your balance.
+
 Press 2 to deposit money.
+
 Press 3 to withdraw money.
+
 Press 4 to view the mini-statement.
+
 Press 5 to exit the session.
+
 Interaction: Follow the on-screen prompts to perform various ATM operations.
 
 Example:
@@ -27,7 +32,11 @@ Enter your Account Name:
 jeeva
 Welcome, jeeva
 Press 1 to check your balance
+
 Press 2 to Add amount
+
 Press 3 to Withdraw amount
+
 Press 4 to Get Receipt
+
 Press 5 to EXIT
